@@ -1,7 +1,0 @@
-this folder contains the CAD of the robot after the ENSI competition .
-we basically chnaged the wheels to the JSUMO wheels and paired them with the
-polulo motors for more grip and speed needed for the navigation testing phase 
-( note this was done way before the building of the main eurobot robot during the
-brainstorming and prototyping phase) 
-
-thank you for your attention to this file !!!
